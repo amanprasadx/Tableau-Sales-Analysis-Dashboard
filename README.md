@@ -22,9 +22,17 @@ An interactive sales analysis dashboard built using Tableau Public to explore pr
 - Shows monthly changes in quantities sold.
 - Compares category-level performance.
 - Helps explore regional sales patterns.
-## Project Files
-- dashboard/Sales_Analysis_Dashboard.twbx — Packaged Tableau workbook.
-- images/dashboard-preview.png — Dashboard screenshot.
-- data/sales_data.xlsx — Source dataset, if shareable.
+tableau-sales-analysis-dashboard/
+│
+├── README.md
+│
+├── dashboard/
+│   └── Sales_Analysis_Dashboard.twbx
+│
+├── images/
+│   └── dashboard-preview.png
+│
+└── data/
+    └── sales_data.xlsx
 ## Author
 Aman Prasad 
