@@ -2,7 +2,7 @@
 ## Project Overview
 An interactive sales analysis dashboard built using Tableau Public to explore product performance, customer sales, monthly quantity trends, category distribution, and geographical sales patterns.
 ## Dashboard Preview
-![Tableau Sales Dashboard](images/dashboard-preview.png)
+![Tableau Sales Dashboard](dashboard-preview.png)
 ## Key Features
 - **Monthly Quantity Analysis:** Tracks quantity sold from January to December.
 - **Top 5 Products by Sales:** Compares leading products by sales value.
@@ -23,14 +23,8 @@ An interactive sales analysis dashboard built using Tableau Public to explore pr
 - Compares category-level performance.
 - Helps explore regional sales patterns.
 ## Project Files
-- `dashboard/Sales_Analysis_Dashboard.twbx` — Packaged Tableau workbook.
-- `images/dashboard-preview.png` — Dashboard screenshot.
-- `data/sales_data.xlsx` — Source dataset, if shareable.
-## How to View the Project
-1. Open the Tableau Public dashboard using the link below.
-2. Explore the dashboard visualizations.
-3. Download the packaged workbook from this repository to inspect it in Tableau Desktop.
-## Live Dashboard
-Add your published Tableau Public link here: YOUR_TABLEAU_PUBLIC_URL
+- dashboard/Sales_Analysis_Dashboard.twbx — Packaged Tableau workbook.
+- images/dashboard-preview.png — Dashboard screenshot.
+- data/sales_data.xlsx — Source dataset, if shareable.
 ## Author
 Aman Prasad 
