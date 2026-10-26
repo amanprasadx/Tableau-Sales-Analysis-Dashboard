@@ -22,7 +22,7 @@ An interactive sales analysis dashboard built using Tableau Public to explore pr
 - Shows monthly changes in quantities sold.
 - Compares category-level performance.
 - Helps explore regional sales patterns.
-tableau-sales-analysis-dashboard/
+## tableau-sales-analysis-dashboard/
 │
 ├── README.md
 │
